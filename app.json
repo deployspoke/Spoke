@@ -195,7 +195,7 @@
     }
   },
   "addons": [
-    "heroku-postgresql:hobby-dev",
+    "heroku-postgresql:hobby-basic",
     {
       "plan": "heroku-redis:hobby-dev",
       "options": {
