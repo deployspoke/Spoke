@@ -51,17 +51,17 @@
 
     "TWILIO_ACCOUNT_SID": {
       "description": "for twilio integration and connected to twilio account",
-      "required": true
+      "required": false
     },
 
     "TWILIO_AUTH_TOKEN": {
       "description": "for twilio integration and connected to twilio account",
-      "required": true
+      "required": false
     },
 
     "TWILIO_MESSAGE_SERVICE_SID": {
       "description": "for twilio integration and connected to twilio account",
-      "required": true
+      "required": false
     },
 
     "TWILIO_STATUS_CALLBACK_URL": {
